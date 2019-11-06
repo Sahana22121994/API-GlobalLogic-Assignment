@@ -1,1 +1,1 @@
-# API-GlobalLogic-Assignment
+# JAVA-WeatherAPI
